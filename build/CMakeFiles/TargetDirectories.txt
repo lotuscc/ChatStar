@@ -1,0 +1,8 @@
+/home/lotuscc/github_Project/ChatStar/build/CMakeFiles/rebuild_cache.dir
+/home/lotuscc/github_Project/ChatStar/build/CMakeFiles/edit_cache.dir
+/home/lotuscc/github_Project/ChatStar/build/src/client/CMakeFiles/rebuild_cache.dir
+/home/lotuscc/github_Project/ChatStar/build/src/client/CMakeFiles/edit_cache.dir
+/home/lotuscc/github_Project/ChatStar/build/src/client/CMakeFiles/client.dir
+/home/lotuscc/github_Project/ChatStar/build/src/server/CMakeFiles/rebuild_cache.dir
+/home/lotuscc/github_Project/ChatStar/build/src/server/CMakeFiles/edit_cache.dir
+/home/lotuscc/github_Project/ChatStar/build/src/server/CMakeFiles/server.dir

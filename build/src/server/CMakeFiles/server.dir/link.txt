@@ -1,0 +1,1 @@
+/usr/bin/g++ -Wall --std=c++20 -g -rdynamic CMakeFiles/server.dir/main.cc.o -o server 

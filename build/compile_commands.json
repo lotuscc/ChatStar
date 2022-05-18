@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/lotuscc/github_Project/ChatStar/build/src/client",
+  "command": "/usr/bin/g++  -I/home/lotuscc/github_Project/ChatStar/mysql/include -Wall --std=c++20 -g -o CMakeFiles/client.dir/main.cc.o -c /home/lotuscc/github_Project/ChatStar/src/client/main.cc",
+  "file": "/home/lotuscc/github_Project/ChatStar/src/client/main.cc"
+},
+{
+  "directory": "/home/lotuscc/github_Project/ChatStar/build/src/server",
+  "command": "/usr/bin/g++  -I/home/lotuscc/github_Project/ChatStar/mysql/include -Wall --std=c++20 -g -o CMakeFiles/server.dir/main.cc.o -c /home/lotuscc/github_Project/ChatStar/src/server/main.cc",
+  "file": "/home/lotuscc/github_Project/ChatStar/src/server/main.cc"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/g++ -Wall --std=c++20 -g -rdynamic CMakeFiles/client.dir/main.cc.o -o client   -L/home/lotuscc/github_Project/ChatStar/mysql  -Wl,-rpath,/home/lotuscc/github_Project/ChatStar/mysql -lmysqlcppconn8 
