@@ -11,6 +11,8 @@
 		"commands" : 
 		[
 			"add_executable",
+			"target_link_directories",
+			"target_link_libraries",
 			"include_directories"
 		],
 		"files" : 
@@ -30,13 +32,25 @@
 				"parent" : 0
 			},
 			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 9,
+				"parent" : 0
+			},
+			{
 				"file" : 1
 			},
 			{
-				"command" : 1,
+				"command" : 3,
 				"file" : 1,
 				"line" : 13,
-				"parent" : 2
+				"parent" : 4
 			}
 		]
 	},
@@ -52,7 +66,7 @@
 			"includes" : 
 			[
 				{
-					"backtrace" : 3,
+					"backtrace" : 5,
 					"path" : "/home/lotuscc/github_Project/ChatStar/mysql/include"
 				}
 			],
@@ -75,6 +89,20 @@
 			{
 				"fragment" : "-rdynamic",
 				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "-L/home/lotuscc/github_Project/ChatStar/mysql",
+				"role" : "libraryPath"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/home/lotuscc/github_Project/ChatStar/mysql",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-lmysqlcppconn8",
+				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
