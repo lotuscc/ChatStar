@@ -284,9 +284,21 @@ devapi/settings.h
 devapi/detail/session.h
 ../mysql/include/mysqlx/devapi/detail/session.h
 
+/home/lotuscc/github_Project/ChatStar/src/server/login.h
+iostream
+-
+mysqlx/xdevapi.h
+-
+string
+-
+
 /home/lotuscc/github_Project/ChatStar/src/server/main.cc
 iostream
 -
 mysqlx/xdevapi.h
 -
+string
+-
+login.h
+/home/lotuscc/github_Project/ChatStar/src/server/login.h
 

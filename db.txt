@@ -1,0 +1,17 @@
+
+CREATE USER 'bella'@'localhost' IDENTIFIED BY 'bk0717';
+
+create DATABASE ell_db;
+
+CREATE TABLE IF NOT EXISTS `user_login`(
+   `user_id` INT UNSIGNED AUTO_INCREMENT,
+   `user_name` VARCHAR(20) NOT NULL,
+   `user_passwd` VARCHAR(20) NOT NULL,
+   `submission_date` DATE,
+   PRIMARY KEY ( `user_id` )
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+INSERT INTO user_login  (user_name, user_passwd, submission_date)
+    VALUES("lotuscc", "123", NOW());
+
+select * from user_login;

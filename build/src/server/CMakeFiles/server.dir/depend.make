@@ -29,5 +29,6 @@ src/server/CMakeFiles/server.dir/main.cc.o: ../mysql/include/mysqlx/devapi/row.h
 src/server/CMakeFiles/server.dir/main.cc.o: ../mysql/include/mysqlx/devapi/settings.h
 src/server/CMakeFiles/server.dir/main.cc.o: ../mysql/include/mysqlx/devapi/table_crud.h
 src/server/CMakeFiles/server.dir/main.cc.o: ../mysql/include/mysqlx/xdevapi.h
+src/server/CMakeFiles/server.dir/main.cc.o: ../src/server/login.h
 src/server/CMakeFiles/server.dir/main.cc.o: ../src/server/main.cc
 

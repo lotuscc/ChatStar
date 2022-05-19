@@ -30,4 +30,5 @@ src/server/CMakeFiles/server.dir/main.cc.o
  ../mysql/include/mysqlx/devapi/settings.h
  ../mysql/include/mysqlx/devapi/table_crud.h
  ../mysql/include/mysqlx/xdevapi.h
+ /home/lotuscc/github_Project/ChatStar/src/server/login.h
  /home/lotuscc/github_Project/ChatStar/src/server/main.cc
