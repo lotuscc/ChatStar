@@ -6,3 +6,7 @@
 
 #IncludeRegexTransform: 
 
+/home/lotuscc/github_Project/ChatStar/src/client/main.cc
+iostream
+-
+
